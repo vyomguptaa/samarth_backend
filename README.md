@@ -32,8 +32,4 @@ Deployment made on Heroku
 
 
 ## 🙋🏻‍♂️ Contributors
-* [Shreyan Sanyal](https://github.com/Shreyan111)
-* [Rishabh Agarwal](https://github.com/Rishabhco)
-* [Mayank Dhankar](https://github.com/mayankdhnkr)
-* [Mohammed Muazz Zuberi](https://github.com/Muazz45)
-
+* [Vyom Gupta](https://github.com/vyomguptaa)
