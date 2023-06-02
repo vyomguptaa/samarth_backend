@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rishabhco/samarthBackend.git"
+    "url": "git+https://github.com/vyomguptaa/samarth_backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rishabhco/samarthBackend/issues"
+    "url": "https://github.com/vyomguptaa/samarth_backend/issues"
   },
-  "homepage": "https://github.com/Rishabhco/samarthBackend#readme",
+  "homepage": "https://github.com/vyomguptaa/samarth_backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.1",
